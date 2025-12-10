@@ -224,8 +224,9 @@ Use it for:
 
 ## 🎨 Additional Content Placeholders
 
-### 🧠 Mind Map (Coming Soon)
-📍 *Insert mind map visual here*
+### 🧠 Mind Map
+<img width="6763" height="9737" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/22818d57-773f-4b15-b33f-8e6ae2dfeae0" />
+
 
 ### 📽️ Slides (Coming Soon)
 📍 *Link or attach PDF here*
