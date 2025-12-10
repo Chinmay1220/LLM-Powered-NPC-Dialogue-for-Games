@@ -11,7 +11,8 @@
 ## 📌 Project Preview
 
 ### 🖼️ *(Insert Image Here: “Crafting Smarter NPCs: The LLM Dialogue Pipeline”)*  
-📍 Recommended: `assets/llm_npc_pipeline.png`
+![Uploading image.png…]()
+
 
 ---
 
