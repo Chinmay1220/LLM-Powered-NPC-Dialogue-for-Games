@@ -10,7 +10,7 @@
 
 ## 📌 Project Preview
 
-### 🖼️ *(Insert Image Here: “Crafting Smarter NPCs: The LLM Dialogue Pipeline”)*  
+### Crafting Smarter NPCs: The LLM Dialogue Pipeline
 
 <img width="2752" height="1536" alt="llm bot" src="https://github.com/user-attachments/assets/40c9a175-5fd2-457a-b20c-b0fe460b2b6e" />
 
