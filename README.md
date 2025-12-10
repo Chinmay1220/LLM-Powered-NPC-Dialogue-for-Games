@@ -231,8 +231,8 @@ Use it for:
 ### 📽️ Slides (Coming Soon)
 📍 *Link or attach PDF here*
 
-### 🎥 Video Lecture (Coming Soon)
-📍 *Link or thumbnail here*
+### 🎥 Video Lecture
+
 
 ---
 
